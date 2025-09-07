@@ -6,8 +6,8 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-img{
-    display: block;
+img {
+  display: block;
 }
 
 /* Header */
@@ -54,7 +54,7 @@ nav li a:hover {
 }
 
 /* Main */
-.main-image img{
-    width: 100%;
-    height: 95vh;
+.main-image img {
+  width: 100%;
+  height: 90dvh;
 }
